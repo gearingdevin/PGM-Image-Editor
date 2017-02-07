@@ -3,8 +3,20 @@
 
 
 ####Installation:  
+-**Process One:**  
 1. Download and place sample_images folder onto the Desktop.  
-2. create a new xCode project and replace the main.cpp with the one avaliable int this repo.  
+2. create a new xCode project and replace the main.cpp with the one avaliable int this repo.
+
+-**Process Two:**  
+1. Open Terminal (use spotlight search or under Utilities)  
+2. Have main.cpp downloaded on desktop  
+3. In terminal type 'g++' then hit the spacebar one  
+4. Drag main.cpp from desktop into terminal  
+5. Hit space after the directory that popped up and then type'-o'  
+6. Hit space again and type 'ImageEdit'  
+7. Press enter and wait until it compiles (a few seconds)  
+8. On Desktop there should be an exutable called 'ImageEdit' that you can open  
+  -example: 'g++ ~/Desktop/main.cpp -o ImageEdit'  
 
 
 
