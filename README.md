@@ -1,6 +1,6 @@
 # PGM-Image-Editor
-*currently only works for Mac OSX
-*I recommend you use process two to compile
+*currently only works for Mac OSX  
+*I recommend you use process two to compile  
 
 
 ####Installation:  
