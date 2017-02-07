@@ -9,4 +9,5 @@
 
 
 ####**HelpfulTips:**  
--The default directory this program looks for PGM images is Desktop/sample_images. This can be changed in settings.
+-The default directory this program looks for PGM images is Desktop/sample_images. This can be changed in settings.  
+-There are more than one keyword of each command for ease of use. These can be found in the key below.  
