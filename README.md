@@ -7,3 +7,6 @@
 2. create a new xCode project and replace the main.cpp with the one avaliable int this repo.  
 
 
+
+####**HelpfulTips:**  
+-The default directory this program looks for PGM images is Desktop/sample_images. This can be changed in settings.
