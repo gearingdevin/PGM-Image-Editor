@@ -16,7 +16,7 @@
 6. Hit space again and type 'ImageEdit'  
 7. Press enter and wait until it compiles (a few seconds)  
 8. On Desktop there should be an exutable called 'ImageEdit' that you can open  
-  -example: 'g++ ~/Desktop/main.cpp -o ImageEdit'  
+    *example: 'g++ ~/Desktop/main.cpp -o ImageEdit'  
 
 
 
